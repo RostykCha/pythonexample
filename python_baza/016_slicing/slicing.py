@@ -1,0 +1,6 @@
+animals = ("cat", "dog", "sheep", "lion")
+print(animals[2])
+print(animals[0:2])
+print(animals[:2])
+print(animals[-1])
+print(animals[::])
