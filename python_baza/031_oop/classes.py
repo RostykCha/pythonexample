@@ -1,4 +1,6 @@
-class Person:
+from itrem import Itrem
+
+class Person(Itrem):
     _count = 0
 
     def __init__(self, name, surname):
