@@ -1,6 +1,9 @@
-import mymodule as mod
+import mymodule
 
-mod.myfunc()
+value1= "Ros"
+value2= "Ros2"
 
-c = mod.MyClass()
+mymodule.myfunc()
+
+c = mymodule.MyClass()
 c.myclassmethod()
